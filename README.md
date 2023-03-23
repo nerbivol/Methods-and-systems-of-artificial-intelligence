@@ -44,4 +44,6 @@ Methods and systems of artificial intelligence
   - Q-table
   - SARSA
     
-- 
+- Evolution algorithms:
+  - CMA-ES
+  - Genetic algorithm (pygad)
